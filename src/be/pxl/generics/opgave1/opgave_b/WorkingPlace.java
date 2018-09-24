@@ -1,8 +1,11 @@
 package be.pxl.generics.opgave1.opgave_b;
 
+import be.pxl.generics.opgave1.Car;
 import be.pxl.generics.opgave1.Vehicle;
 
-public class WorkingPlace<T> {
+import java.net.CacheRequest;
+
+public class WorkingPlace<T extends Vehicle> {
 	private T thingToFix;
 	private int numberOfThingsFixed = 0;
 

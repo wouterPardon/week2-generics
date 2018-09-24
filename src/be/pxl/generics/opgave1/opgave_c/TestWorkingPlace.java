@@ -1,8 +1,6 @@
 package be.pxl.generics.opgave1.opgave_c;
 
-import be.pxl.generics.opgave1.Bike;
-import be.pxl.generics.opgave1.Car;
-import be.pxl.generics.opgave1.Vehicle;
+import be.pxl.generics.opgave1.*;
 
 public class TestWorkingPlace {
 	public static void main(String[] args) {
