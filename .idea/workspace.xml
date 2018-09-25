@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76737ac0-8143-4405-b05f-22506a696f5e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/be/pxl/generics/opgave2/MoveableApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/pxl/generics/opgave2/MoveableApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamMatchResultTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamMatchResultTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamRankingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamRankingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,35 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WorkingPlace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave1/opgave_a/WorkingPlace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-              <folding>
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#552#553#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MoveableApp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/MoveableApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ChessPiece.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/ChessPiece.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
               <folding>
                 <element signature="e#236#237#0" expanded="true" />
                 <element signature="e#275#276#0" expanded="true" />
@@ -54,44 +31,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Location.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/Location.java">
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Elephant.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/Elephant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="253">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding>
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChessBoardLocation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/ChessBoardLocation.java">
+      <file leaf-file-name="BaseBallPlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/BaseBallPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="115">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WorkingPlace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave1/opgave_b/WorkingPlace.java">
+      <file leaf-file-name="SoccerPlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/SoccerPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+            <state relative-caret-position="92">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeamMatchResultTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamMatchResultTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="49" column="45" lean-forward="true" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,29 +84,87 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestWorkingPlace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave1/opgave_b/TestWorkingPlace.java">
+      <file leaf-file-name="TeamRankingTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamRankingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <state relative-caret-position="874">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestWorkingPlace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave1/opgave_c/TestWorkingPlace.java">
+      <file leaf-file-name="VolleybalPlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/VolleybalPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="92">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Moveable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/Moveable.java">
+      <file leaf-file-name="Team.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/Team.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="460">
+              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#747#748#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#865#866#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#920#921#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#989#990#0" expanded="true" />
+                <element signature="e#1017#1018#0" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
+                <element signature="e#1081#1082#0" expanded="true" />
+                <element signature="e#1113#1114#0" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+                <element signature="e#1183#1184#0" expanded="true" />
+                <element signature="e#1235#1236#0" expanded="true" />
+                <element signature="e#1273#1274#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeamTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeamApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/TeamApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -148,7 +191,6 @@
         <option value="$PROJECT_DIR$/src/be/pxl/generics/demo1_1/DemoApp.java" />
         <option value="$PROJECT_DIR$/src/be/pxl/generics/demoles1_1/DemoApp.java" />
         <option value="$PROJECT_DIR$/src/be/pxl/generics/demoles1/DemoApp.java" />
-        <option value="$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamMatchResultTest.java" />
         <option value="$PROJECT_DIR$/src/be/pxl/generics/demoles1/GenericsHolder.java" />
         <option value="$PROJECT_DIR$/src/be/pxl/generics/opgave1/opgave_a/WorkingPlace.java" />
         <option value="$PROJECT_DIR$/src/be/pxl/generics/opgave1/opgave_a/TestWorkingPlace.java" />
@@ -168,6 +210,15 @@
         <option value="$PROJECT_DIR$/src/be/pxl/generics/opgave2/Moveable.java" />
         <option value="$PROJECT_DIR$/src/be/pxl/generics/opgave2/Elephant.java" />
         <option value="$PROJECT_DIR$/src/be/pxl/generics/opgave2/ChessPiece.java" />
+        <option value="$PROJECT_DIR$/src/be/pxl/generics/opgave3/BaseBallPlayer.java" />
+        <option value="$PROJECT_DIR$/src/be/pxl/generics/opgave3/SoccerPlayer.java" />
+        <option value="$PROJECT_DIR$/src/be/pxl/generics/opgave3/VolleybalPlayer.java" />
+        <option value="$PROJECT_DIR$/src/be/pxl/generics/opgave3/Player.java" />
+        <option value="$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamMatchResultTest.java" />
+        <option value="$PROJECT_DIR$/src/be/pxl/generics/opgave3/TeamApp.java" />
+        <option value="$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamRankingTest.java" />
+        <option value="$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamTest.java" />
+        <option value="$PROJECT_DIR$/src/be/pxl/generics/opgave3/Team.java" />
       </list>
     </option>
   </component>
@@ -219,7 +270,18 @@
               <item name="week2-generics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="generics" type="462c0819:PsiDirectoryNode" />
-              <item name="opgave2" type="462c0819:PsiDirectoryNode" />
+              <item name="opgave3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week2-generics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2-generics" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week2-generics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2-generics" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="opgave3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,64 +317,101 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoveableApp">
-    <configuration name="DemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.pxl.generics.demoles1.DemoApp" />
-      <module name="week2-generics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="be.pxl.generics.demoles1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MoveableApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.pxl.generics.opgave2.MoveableApp" />
-      <module name="week2-generics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="be.pxl.generics.opgave2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestWorkingPlace (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.pxl.generics.opgave1.opgave_c.TestWorkingPlace" />
-      <module name="week2-generics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="be.pxl.generics.opgave1.opgave_c.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestWorkingPlace (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.pxl.generics.opgave1.opgave_d.TestWorkingPlace" />
-      <module name="week2-generics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="be.pxl.generics.opgave1.opgave_d.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestWorkingPlace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="be.pxl.generics.opgave1.opgave_a.TestWorkingPlace" />
-      <module name="week2-generics" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="be.pxl.generics.opgave1.opgave_a.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.be.pxl.generics.opgave3 in week2-generics">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TeamMatchResultTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week2-generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.generics.opgave3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="be.pxl.generics.opgave3" />
+      <option name="MAIN_CLASS_NAME" value="be.pxl.generics.opgave3.TeamMatchResultTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TeamMatchResultTest.testOurTeamTiedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week2-generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.generics.opgave3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="be.pxl.generics.opgave3" />
+      <option name="MAIN_CLASS_NAME" value="be.pxl.generics.opgave3.TeamMatchResultTest" />
+      <option name="METHOD_NAME" value="testOurTeamTiedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TeamRankingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week2-generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.generics.opgave3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="be.pxl.generics.opgave3" />
+      <option name="MAIN_CLASS_NAME" value="be.pxl.generics.opgave3.TeamRankingTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TeamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week2-generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.generics.opgave3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="be.pxl.generics.opgave3" />
+      <option name="MAIN_CLASS_NAME" value="be.pxl.generics.opgave3.TeamTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -321,6 +420,29 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="be.pxl.generics.opgave3 in week2-generics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week2-generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.pxl.generics.opgave3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="be.pxl.generics.opgave3" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -353,19 +475,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DemoApp" />
-      <item itemvalue="Application.TestWorkingPlace" />
-      <item itemvalue="Application.TestWorkingPlace (1)" />
-      <item itemvalue="Application.TestWorkingPlace (2)" />
-      <item itemvalue="Application.MoveableApp" />
+      <item itemvalue="JUnit.TeamMatchResultTest" />
+      <item itemvalue="JUnit.TeamMatchResultTest.testOurTeamTiedTest" />
+      <item itemvalue="JUnit.TeamRankingTest" />
+      <item itemvalue="JUnit.TeamTest" />
+      <item itemvalue="JUnit.be.pxl.generics.opgave3 in week2-generics" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MoveableApp" />
-        <item itemvalue="Application.TestWorkingPlace (2)" />
-        <item itemvalue="Application.TestWorkingPlace (1)" />
-        <item itemvalue="Application.TestWorkingPlace" />
-        <item itemvalue="Application.DemoApp" />
+        <item itemvalue="JUnit.be.pxl.generics.opgave3 in week2-generics" />
+        <item itemvalue="JUnit.TeamTest" />
+        <item itemvalue="JUnit.TeamRankingTest" />
+        <item itemvalue="JUnit.TeamMatchResultTest" />
+        <item itemvalue="JUnit.TeamMatchResultTest.testOurTeamTiedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +502,7 @@
       <option name="presentableId" value="Default" />
       <updated>1537789892625</updated>
       <workItem from="1537789894459" duration="4922000" />
-      <workItem from="1537794865538" duration="6432000" />
+      <workItem from="1537794865538" duration="9098000" />
     </task>
     <servers />
   </component>
@@ -391,24 +513,47 @@
     <history-entry file="be_pxl_generics_opgave3_in_week2-generics - 2018.09.24 at 14h 58m 29s.xml">
       <configuration name="be.pxl.generics.opgave3 in week2-generics" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TeamMatchResultTest - 2018.09.25 at 17h 11m 28s.xml">
+      <configuration name="TeamMatchResultTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeamMatchResultTest - 2018.09.25 at 17h 14m 43s.xml">
+      <configuration name="TeamMatchResultTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeamMatchResultTest - 2018.09.25 at 17h 15m 23s.xml">
+      <configuration name="TeamMatchResultTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeamMatchResultTest_testOurTeamTiedTest - 2018.09.25 at 17h 16m 18s.xml">
+      <configuration name="TeamMatchResultTest.testOurTeamTiedTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeamMatchResultTest - 2018.09.25 at 17h 19m 22s.xml">
+      <configuration name="TeamMatchResultTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeamMatchResultTest - 2018.09.25 at 17h 19m 37s.xml">
+      <configuration name="TeamMatchResultTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeamMatchResultTest - 2018.09.25 at 17h 20m 07s.xml">
+      <configuration name="TeamMatchResultTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TeamRankingTest - 2018.09.25 at 17h 24m 07s.xml">
+      <configuration name="TeamRankingTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11354000" />
+    <option name="totallyTimeSpent" value="14020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32829374" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32829374" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33585313" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33585313" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -435,42 +580,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamMatchResultTest.java</url>
+          <line>49</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave1/opgave_d/WorkingPlaceUtility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave1/opgave_d/WorkingPlace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/Location.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/MoveableApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/ChessBoardLocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamMatchResultTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -564,13 +686,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/demoles1_1/Holder.java" />
     <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/demoles1_1/DemoApp.java" />
-    <entry file="file://$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2-generics.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -599,26 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamRankingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamMatchResultTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -796,13 +891,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/ChessBoardLocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/Moveable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -823,10 +911,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/MoveableApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/ChessBoardLocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/ChessPiece.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
           <folding>
             <element signature="e#236#237#0" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
@@ -836,10 +938,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave2/MoveableApp.java">
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/BaseBallPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/VolleybalPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/SoccerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamMatchResultTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="49" column="45" lean-forward="true" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/TeamApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/be/pxl/generics/opgave3/TeamRankingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/pxl/generics/opgave3/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#920#921#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1081#1082#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1273#1274#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
